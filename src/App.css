@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(227, 193, 193);
+    color: black;
+}
+.App{
+    text-align: center;
+}
+.inbox{
+    background-color: white;
+    color: black;
+    padding: 7px;
+    border: 0;
+    width: 15%;
+    border-radius: 5px;
+}
+.add{
+    background-color: #7b6fe3;
+    border: 0;
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.event{
+    margin-top: 10px;
+}
+.event button{
+    margin: 5px;
+    background-color: #7b6fe3;
+    border: 0;
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 7%;
+    font-size: 15px;
+}
+.task{
+    list-style: none;
+}
+.inbutton{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    border: 0;
+    margin: 10px;
+}
